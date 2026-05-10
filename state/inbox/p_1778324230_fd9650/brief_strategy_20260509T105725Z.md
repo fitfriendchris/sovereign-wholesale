@@ -1,0 +1,3 @@
+# Brief for strategy on project p_1778324230_fd9650
+
+Research RE wholesaling with no-money-down strategies. Specifically: 1) How passivepilot.io works - their deal analyzer, pipeline, institutional buyers database, buy boxes, hard money lender network. 2) State-by-state wholesaling legality - assignment vs double-close requirements, which states require license, which restrict wholesaling. 3) No-money tactics: driving for dollars, cold calling, bandit signs, virtual wholesaling, JV partnerships. 4) Institutional buyer criteria - what REITs, iBuyers, hedge funds look for (price, condition, geography, volume). Return a comprehensive report with actionable next steps for each area.

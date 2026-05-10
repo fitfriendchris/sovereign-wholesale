@@ -1,0 +1,46 @@
+#!/usr/bin/env python3
+"""sovereign — thin CLI wrapper around Sovereign's command surface.
+
+Hermes (running inside OpenClaw's `hermes` agent) calls this via `bash exec`
+to handle Operator commands. Reuses `dispatch.telegram_bridge.handle_message`
+so the surface is identical to what Telegram users would type.
+
+Examples:
+    sovereign /help
+    sovereign /projects
+    sovereign /scanner once
+    sovereign /treasury status
+    sovereign yes
+    sovereign no
+    sovereign edit "drop budget to $50"
+"""
+from __future__ import annotations
+
+import os
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+os.chdir(ROOT)
+sys.path.insert(0, str(ROOT))
+
+from dispatch.telegram_bridge import handle_message  # noqa: E402
+
+
+def main() -> int:
+    if len(sys.argv) < 2:
+        print(handle_message("/help"))
+        return 0
+    cmd = " ".join(sys.argv[1:])
+    try:
+        out = handle_message(cmd)
+        # Strip Telegram-style emoji prefixes when piped — Hermes will reformat
+        sys.stdout.write(out + "\n")
+        return 0
+    except Exception as e:
+        sys.stderr.write(f"sovereign error: {e}\n")
+        return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())

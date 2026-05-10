@@ -1,0 +1,3 @@
+# Brief for compliance on project p_1778324230_fd9650
+
+UPDATE state map with 2024-2026 law changes. Specifically: Illinois 765 ILCS 82/1 (2024), Oklahoma 59 O.S. § 858-301 (2024), Pennsylvania 63 P.S. § 455.101 (2023 update), Mississippi Miss. Code Ann. § 73-35-1. Categorize each state: GREEN (assignment legal, no license), YELLOW (disclosure required), ORANGE (new restrictions), RED (license required or prohibited). For GREEN states, list specific disclosure requirements. For ORANGE/RED, note workaround strategies (double-close, JV with licensed agent, entity formation). Return UPDATED state matrix.

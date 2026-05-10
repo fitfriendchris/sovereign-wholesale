@@ -1,0 +1,85 @@
+{"ts": 1778300779.608476, "event": "call", "role": "research_scanner", "model": "haiku-4.5", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778300831.974853, "event": "call", "role": "research_scanner", "model": "haiku-4.5", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778300931.038347, "event": "call", "role": "research_scanner", "model": "haiku-4.5", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778305356.30708, "event": "call", "role": "strategy", "model": "sonnet-4.6", "via": "openclaw-cli(openrouter/anthropic/claude-sonnet-4.6)", "cost": 0.0}
+{"ts": 1778305390.368664, "event": "call", "role": "research_scanner", "model": "haiku-4.5", "via": "openclaw-cli(openrouter/anthropic/claude-haiku-4.5)", "cost": 0.0}
+{"ts": 1778305418.1444569, "event": "call", "role": "research_scanner", "model": "haiku-4.5", "via": "openclaw-cli(openrouter/anthropic/claude-haiku-4.5)", "cost": 0.0}
+{"ts": 1778305512.970468, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778305553.209453, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778305591.9168582, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778306527.187253, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778306652.497683, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778306776.5494132, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778307424.615645, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778314093.019576, "event": "call", "role": "strategy", "model": "sonnet-4.6", "via": "openclaw-cli(openrouter/anthropic/claude-sonnet-4.6)", "cost": 0.0}
+{"ts": 1778314345.706115, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "openrouter/anthropic/claude-sonnet-4.6"}
+{"ts": 1778314530.320909, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "openrouter/anthropic/claude-sonnet-4.6"}
+{"ts": 1778314673.614345, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "openrouter/anthropic/claude-sonnet-4.6"}
+{"ts": 1778314708.5742831, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "openrouter/anthropic/claude-sonnet-4.6"}
+{"ts": 1778314732.733572, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.018942}
+{"ts": 1778315192.28036, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openclaw-cli(openrouter/anthropic/claude-sonnet-4.6)", "cost": 0.0}
+{"ts": 1778315306.7980318, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openclaw-cli(openrouter/anthropic/claude-sonnet-4.6)", "cost": 0.0}
+{"ts": 1778315478.233024, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778315860.86742, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778317291.709097, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778317375.1932201, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778317501.1705039, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778317522.325641, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001293}
+{"ts": 1778321342.596309, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778324604.295419, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778324605.463354, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 1.7e-05}
+{"ts": 1778324731.3910751, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778324732.966927, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.000306}
+{"ts": 1778325591.715563, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 1.4e-05}
+{"ts": 1778325594.4368808, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.000306}
+{"ts": 1778325604.3661828, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778325605.591161, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 1.4e-05}
+{"ts": 1778325654.289676, "event": "call", "role": "strategy", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023145}
+{"ts": 1778325683.404897, "event": "call", "role": "branding", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.022983}
+{"ts": 1778325686.961584, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.02391}
+{"ts": 1778325693.123574, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.004096}
+{"ts": 1778325729.516372, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778325731.0548239, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.000306}
+{"ts": 1778331697.113034, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778331756.152731, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778331795.129364, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778347674.4545238, "event": "openclaw_cli_fail", "stderr": "gateway connect failed: Error: gateway request timeout for connect\nGatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778347718.9976351, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.0018}
+{"ts": 1778347856.486652, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778347894.0215502, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001553}
+{"ts": 1778347983.5490491, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778351014.449623, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001625}
+{"ts": 1778351827.542003, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023826}
+{"ts": 1778351832.392046, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023361}
+{"ts": 1778351835.756757, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.004098}
+{"ts": 1778354889.3404958, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023409}
+{"ts": 1778354919.421985, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.002022}
+{"ts": 1778354933.302389, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.024018}
+{"ts": 1778356344.666497, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023355}
+{"ts": 1778356351.4238179, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.00408}
+{"ts": 1778368531.59457, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.015891}
+{"ts": 1778370483.710718, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.003963}
+{"ts": 1778374878.6236842, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778374935.975252, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778374983.089377, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778389329.044653, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778389366.3985448, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778389409.0327868, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778403926.058443, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778405863.530711, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778405898.792447, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001556}
+{"ts": 1778405952.5636008, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778410533.6338902, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001546}
+{"ts": 1778410537.8213718, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.024405}
+{"ts": 1778410557.2898932, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.004182}
+{"ts": 1778410884.177978, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001508}
+{"ts": 1778410901.073214, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023799}
+{"ts": 1778410905.2403042, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.00408}
+{"ts": 1778410983.213112, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023838}
+{"ts": 1778411029.2543738, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.003884}
+{"ts": 1778411073.032203, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023913}
+{"ts": 1778411077.0263722, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023838}
+{"ts": 1778411111.62699, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.019962}
+{"ts": 1778411248.9961522, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023775}
+{"ts": 1778411287.295307, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.004074}
+{"ts": 1778411320.808733, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.003883}

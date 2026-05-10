@@ -1,0 +1,3 @@
+# Brief for engineering on project p_1778324230_fd9650
+
+Design a fully automated real estate wholesaling system. Requirements: 1) Web scraper that monitors Zillow, Redfin, Realtor.com for properties matching criteria (price, beds, baths, condition signals). 2) Skip trace API integration (BatchSkipTracing or similar) to find owner contact info. 3) Automated email sequence to owners (5-touch campaign). 4) DocuSign API integration for remote contract signing. 5) Buyer matching algorithm (filter by buy box). 6 Automated assignment fee collection (Stripe or escrow). 7) CRM dashboard tracking all deals. Output: Technical architecture diagram, API requirements, estimated monthly costs, MVP build timeline.

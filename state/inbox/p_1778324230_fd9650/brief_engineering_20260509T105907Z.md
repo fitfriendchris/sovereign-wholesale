@@ -1,0 +1,3 @@
+# Brief for engineering on project p_1778324230_fd9650
+
+Design a deal analyzer tool to replicate passivepilot.io functionality. Requirements: 1) Property address input → auto-pull beds/baths/sqft/condition. 2) AI-powered comp analysis (ARV calculation). 3) MAO (Maximum Allowable Offer) calculator using 70% rule minus repairs. 4) Deal pipeline tracker (Lead → Under Contract → Assigned → Closed). 5) Institutional buyer matching (filter buyers by buy box criteria). 6) Assignment fee calculator. Output: Technical spec for a single-file HTML/JS tool with localStorage persistence, no backend required. Include data schema for properties, buyers, and deals.

@@ -1,0 +1,3 @@
+# Brief for branding on project p_1778324230_fd9650
+
+Create a real estate wholesaling company brand. This company will: 1) Source distressed/off-market properties via cold calling, driving for dollars, and JV partnerships. 2) Match properties to institutional buyers (REITs, iBuyers, hedge funds). 3) Flip contracts for assignment fees (K-K per deal). 4) Operate primarily in Texas, virtually nationwide. Requirements: Company name (3 options), tagline, color palette, email domain recommendation, business card copy, and a professional but aggressive tone that appeals to both distressed sellers and institutional buyers.

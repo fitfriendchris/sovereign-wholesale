@@ -1,0 +1,3 @@
+# Brief for compliance on project p_1778324230_fd9650
+
+Research state-by-state real estate wholesaling legality. For each state Chris operates in (primarily Texas, plus any virtual wholesaling states): 1) Is assignment of contract legal? 2) Is double-close legal? 3) Do you need a real estate license to wholesale? 4) Are there restrictions on marketing properties you don't own? 5) Required disclosures. 6) Best entity structure (LLC, Series LLC, etc.) for liability protection. Return a compliance matrix with specific statutes/codes cited. Flag any states where wholesaling is effectively prohibited or heavily restricted.

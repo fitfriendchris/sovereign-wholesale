@@ -1,0 +1,669 @@
+{
+  "audit_log": [
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "p_1778314045_74a11e",
+      "timestamp": "2026-05-09T08:07:25+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "manual create via /project new",
+      "project_id": "p_1778314045_74a11e",
+      "timestamp": "2026-05-09T08:07:25+00:00",
+      "to": "approved"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "strategy",
+      "project_id": "p_1778314045_74a11e",
+      "timestamp": "2026-05-09T08:07:36+00:00"
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778314045_74a11e",
+      "timestamp": "2026-05-09T08:18:52+00:00",
+      "usd": 0.018942
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "p_1778315511_d3c92e",
+      "timestamp": "2026-05-09T08:31:51+00:00"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "engineering",
+      "project_id": "p_1778315511_d3c92e",
+      "timestamp": "2026-05-09T08:31:51+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "audit",
+      "project_id": "p_1778315511_d3c92e",
+      "timestamp": "2026-05-09T08:31:51+00:00",
+      "to": "killed"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "p_1778315884_521612",
+      "timestamp": "2026-05-09T08:38:04+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "operator yes on opp_1778315873_b68d01",
+      "project_id": "p_1778315884_521612",
+      "timestamp": "2026-05-09T08:38:04+00:00",
+      "to": "approved"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "p_1778315884_cbf326",
+      "timestamp": "2026-05-09T08:38:04+00:00"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "engineering",
+      "project_id": "p_1778315884_cbf326",
+      "timestamp": "2026-05-09T08:38:04+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "audit",
+      "project_id": "p_1778315884_cbf326",
+      "timestamp": "2026-05-09T08:38:04+00:00",
+      "to": "killed"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "omni",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "operations",
+      "project_id": "omni",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "migrated from existing portfolio",
+      "project_id": "omni",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "approved"
+    },
+    {
+      "actor": "owner",
+      "event": "status_change",
+      "from_": "approved",
+      "note": "already running",
+      "project_id": "omni",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "active"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "apex",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "engineering",
+      "project_id": "apex",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "migrated from existing portfolio",
+      "project_id": "apex",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "approved"
+    },
+    {
+      "actor": "owner",
+      "event": "status_change",
+      "from_": "approved",
+      "note": "already running",
+      "project_id": "apex",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "active"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "flourish",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "engineering",
+      "project_id": "flourish",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "migrated from existing portfolio",
+      "project_id": "flourish",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "approved"
+    },
+    {
+      "actor": "owner",
+      "event": "status_change",
+      "from_": "approved",
+      "note": "already running",
+      "project_id": "flourish",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "active"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "biblical",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "engineering",
+      "project_id": "biblical",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "migrated from existing portfolio",
+      "project_id": "biblical",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "approved"
+    },
+    {
+      "actor": "owner",
+      "event": "status_change",
+      "from_": "approved",
+      "note": "already running",
+      "project_id": "biblical",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "active"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "jarvis-system",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "operations",
+      "project_id": "jarvis-system",
+      "timestamp": "2026-05-09T09:59:19+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "migrated from existing portfolio",
+      "project_id": "jarvis-system",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "approved"
+    },
+    {
+      "actor": "owner",
+      "event": "status_change",
+      "from_": "approved",
+      "note": "already running",
+      "project_id": "jarvis-system",
+      "timestamp": "2026-05-09T09:59:19+00:00",
+      "to": "active"
+    },
+    {
+      "actor": "strategy",
+      "event": "project_created",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T10:57:10+00:00"
+    },
+    {
+      "actor": "hermes",
+      "event": "status_change",
+      "from_": "proposed",
+      "note": "manual create via /project new",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T10:57:10+00:00",
+      "to": "approved"
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "strategy",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T10:57:21+00:00"
+    },
+    {
+      "event": "spend",
+      "note": "strategy dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T11:20:54+00:00",
+      "usd": 0.023145
+    },
+    {
+      "event": "spend",
+      "note": "branding dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T11:21:23+00:00",
+      "usd": 0.022983
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T11:21:26+00:00",
+      "usd": 0.02391
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T11:21:33+00:00",
+      "usd": 0.004096
+    },
+    {
+      "event": "spend",
+      "note": "research dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T18:23:34+00:00",
+      "usd": 0.001625
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T18:37:07+00:00",
+      "usd": 0.023826
+    },
+    {
+      "event": "spend",
+      "note": "engineering dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T18:37:12+00:00",
+      "usd": 0.023361
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T18:37:15+00:00",
+      "usd": 0.004098
+    },
+    {
+      "event": "spend",
+      "note": "engineering dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T19:28:09+00:00",
+      "usd": 0.023409
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T19:28:39+00:00",
+      "usd": 0.002022
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T19:28:53+00:00",
+      "usd": 0.024018
+    },
+    {
+      "event": "spend",
+      "note": "engineering dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T19:52:24+00:00",
+      "usd": 0.023355
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T19:52:31+00:00",
+      "usd": 0.00408
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T23:15:31+00:00",
+      "usd": 0.015891
+    },
+    {
+      "event": "spend",
+      "note": "research dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-09T23:48:03+00:00",
+      "usd": 0.003963
+    },
+    {
+      "event": "spend",
+      "note": "research dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T10:55:33+00:00",
+      "usd": 0.001546
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T10:55:37+00:00",
+      "usd": 0.024405
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T10:55:57+00:00",
+      "usd": 0.004182
+    },
+    {
+      "event": "spend",
+      "note": "research dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:01:24+00:00",
+      "usd": 0.001508
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:01:41+00:00",
+      "usd": 0.023799
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:01:45+00:00",
+      "usd": 0.00408
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:03:03+00:00",
+      "usd": 0.023838
+    },
+    {
+      "event": "spend",
+      "note": "research dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:03:49+00:00",
+      "usd": 0.003884
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:04:33+00:00",
+      "usd": 0.023913
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:04:37+00:00",
+      "usd": 0.023838
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:05:11+00:00",
+      "usd": 0.019962
+    },
+    {
+      "event": "spend",
+      "note": "compliance dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:07:28+00:00",
+      "usd": 0.023775
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:08:07+00:00",
+      "usd": 0.004074
+    },
+    {
+      "event": "spend",
+      "note": "research dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-10T11:08:40+00:00",
+      "usd": 0.003883
+    }
+  ],
+  "operator": {},
+  "projects": {
+    "apex": {
+      "budget_minutes": 0,
+      "budget_usd": 0.0,
+      "created_at": "2026-05-09T09:59:19+00:00",
+      "engine": "saas_platform",
+      "id": "apex",
+      "kill_criteria": [
+        "MRR declines 3 consecutive months",
+        "Stripe dispute rate > 2%",
+        "Critical security finding without fix path"
+      ],
+      "kpis": {
+        "workdir": "~/git/apex"
+      },
+      "milestones": [],
+      "name": "APEX Coaching",
+      "outcome": "Profitable SaaS coaching platform with 5 tiers + Stripe billing",
+      "owner": "engineering",
+      "spent_usd": 0.0,
+      "status": "active",
+      "updated_at": "2026-05-09T09:59:19+00:00"
+    },
+    "biblical": {
+      "budget_minutes": 0,
+      "budget_usd": 0.0,
+      "created_at": "2026-05-09T09:59:19+00:00",
+      "engine": "curriculum_product",
+      "id": "biblical",
+      "kill_criteria": [
+        "90 days no published modules",
+        "Module launches < $100 net",
+        "Compliance flag escalation on faith claims"
+      ],
+      "kpis": {
+        "workdir": "~/Biblical_Life_Mastery"
+      },
+      "milestones": [],
+      "name": "Biblical Life Mastery",
+      "outcome": "Multi-pillar curriculum + companion app shipping publish-ready modules",
+      "owner": "engineering",
+      "spent_usd": 0.0,
+      "status": "active",
+      "updated_at": "2026-05-09T09:59:19+00:00"
+    },
+    "flourish": {
+      "budget_minutes": 0,
+      "budget_usd": 0.0,
+      "created_at": "2026-05-09T09:59:19+00:00",
+      "engine": "mobile_pwa",
+      "id": "flourish",
+      "kill_criteria": [
+        "3 consecutive drops with <50% sellout",
+        "Total revenue < $500/quarter"
+      ],
+      "kpis": {
+        "workdir": "~/git/flourish"
+      },
+      "milestones": [],
+      "name": "Flourish PWA",
+      "outcome": "Sold-out luxury PWA drops via Stripe payment links",
+      "owner": "engineering",
+      "spent_usd": 0.0,
+      "status": "active",
+      "updated_at": "2026-05-09T09:59:19+00:00"
+    },
+    "jarvis-system": {
+      "budget_minutes": 0,
+      "budget_usd": 0.0,
+      "created_at": "2026-05-09T09:59:19+00:00",
+      "engine": "system_infrastructure",
+      "id": "jarvis-system",
+      "kill_criteria": [
+        "Daemon in restart loop >24h",
+        "Critical service down >2h with no fix path",
+        "Disk >95% full"
+      ],
+      "kpis": {
+        "workdir": "~/.hermes,~/Desktop/Sovereign,~/Library/LaunchAgents"
+      },
+      "milestones": [],
+      "name": "JARVIS / System Infrastructure",
+      "outcome": "99.9%+ daemon uptime across all portfolio services",
+      "owner": "operations",
+      "spent_usd": 0.0,
+      "status": "active",
+      "updated_at": "2026-05-09T09:59:19+00:00"
+    },
+    "omni": {
+      "budget_minutes": 0,
+      "budget_usd": 0.0,
+      "created_at": "2026-05-09T09:59:19+00:00",
+      "engine": "algo_trading",
+      "id": "omni",
+      "kill_criteria": [
+        "drawdown > 30% from peak equity",
+        "3+ consecutive losing weeks",
+        "EA disconnected from broker > 2h"
+      ],
+      "kpis": {
+        "workdir": "~/Omni-full-ALGO-Trading-Bot"
+      },
+      "milestones": [],
+      "name": "Omni Trading Bot",
+      "outcome": "Profitable algorithmic XAUUSD/XAGUSD trading on MidasFX 24/7",
+      "owner": "operations",
+      "spent_usd": 0.0,
+      "status": "active",
+      "updated_at": "2026-05-09T09:59:19+00:00"
+    },
+    "p_1778314045_74a11e": {
+      "budget_minutes": 0,
+      "budget_usd": 80.0,
+      "created_at": "2026-05-09T08:07:25+00:00",
+      "engine": "digital_products",
+      "id": "p_1778314045_74a11e",
+      "kill_criteria": [
+        "if no progress in 14d",
+        "if budget exhausted"
+      ],
+      "kpis": {},
+      "milestones": [],
+      "name": "test-ebook",
+      "outcome": "manual project: test-ebook",
+      "owner": "strategy",
+      "spent_usd": 0.0189,
+      "status": "approved",
+      "updated_at": "2026-05-09T08:18:52+00:00"
+    },
+    "p_1778315511_d3c92e": {
+      "budget_minutes": 0,
+      "budget_usd": 10.0,
+      "created_at": "2026-05-09T08:31:51+00:00",
+      "engine": "digital_products",
+      "id": "p_1778315511_d3c92e",
+      "kill_criteria": [
+        "if no progress"
+      ],
+      "kpis": {},
+      "milestones": [],
+      "name": "collision-test",
+      "outcome": "",
+      "owner": "engineering",
+      "spent_usd": 0.0,
+      "status": "killed",
+      "updated_at": "2026-05-09T08:31:51+00:00"
+    },
+    "p_1778315884_521612": {
+      "budget_minutes": 0,
+      "budget_usd": 120.0,
+      "created_at": "2026-05-09T08:38:04+00:00",
+      "engine": "digital_products",
+      "id": "p_1778315884_521612",
+      "kill_criteria": [
+        "if no revenue in 30d",
+        "if compliance flag escalates"
+      ],
+      "kpis": {},
+      "milestones": [],
+      "name": "digital_products-b68d01",
+      "outcome": "[AUDIT TEST 7] niche digital product opportunity",
+      "owner": null,
+      "spent_usd": 0.0,
+      "status": "approved",
+      "updated_at": "2026-05-09T08:38:04+00:00"
+    },
+    "p_1778315884_cbf326": {
+      "budget_minutes": 0,
+      "budget_usd": 10.0,
+      "created_at": "2026-05-09T08:38:04+00:00",
+      "engine": "digital_products",
+      "id": "p_1778315884_cbf326",
+      "kill_criteria": [
+        "x"
+      ],
+      "kpis": {},
+      "milestones": [],
+      "name": "audit-collision",
+      "outcome": "",
+      "owner": "engineering",
+      "spent_usd": 0.0,
+      "status": "killed",
+      "updated_at": "2026-05-09T08:38:04+00:00"
+    },
+    "p_1778324230_fd9650": {
+      "budget_minutes": 0,
+      "budget_usd": 1500.0,
+      "created_at": "2026-05-09T10:57:10+00:00",
+      "engine": "re_wholesale",
+      "id": "p_1778324230_fd9650",
+      "kill_criteria": [
+        "if no progress in 14d",
+        "if budget exhausted"
+      ],
+      "kpis": {},
+      "milestones": [],
+      "name": "re-wholesale-passivepilot",
+      "outcome": "manual project: re-wholesale-passivepilot",
+      "owner": "strategy",
+      "spent_usd": 0.4105,
+      "status": "approved",
+      "updated_at": "2026-05-10T11:08:40+00:00"
+    }
+  },
+  "skills": []
+}

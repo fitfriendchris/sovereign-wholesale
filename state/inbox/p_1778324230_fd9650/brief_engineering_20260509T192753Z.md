@@ -1,0 +1,3 @@
+# Brief for engineering on project p_1778324230_fd9650
+
+FIXED SYSTEM — Compliant nationwide wholesaling automation. Replace all scrapers with: 1) PropStream API (/mo) — legal property data + skip trace. 2) County assessor public records (no ToS issues). 3) HUD HomeStore API (free government data). 4) Craigslist FSBO (manual but legal). 5) BatchLeads API (/mo) for owner contact data. Build: A) Property scanner using LEGAL APIs only. B) Email system with CAN-SPAM compliance (unsubscribe, physical address, opt-out). C) DocuSign integration for remote signing. D) Buyer matching dashboard. E) Airtable CRM integration. Return working MVP architecture with API keys and setup steps.

@@ -1,0 +1,42 @@
+{"ts": 1778300931.047522, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778300931.048672, "event": "cycle_complete", "started": "2026-05-09T04:27:56.588119+00:00", "finished": "2026-05-09T04:28:51.048620+00:00", "targets": ["digital_question_gaps"], "ingested": 5, "promoted_to_strategy": 3, "cost_usd": 0.0, "dry": false}
+{"ts": 1778305390.3696508, "event": "target_done", "target": "digital_question_gaps", "findings": 0, "cost_usd": 0.0, "via": "openclaw-cli(openrouter/anthropic/claude-haiku-4.5)"}
+{"ts": 1778305390.370763, "event": "cycle_complete", "started": "2026-05-09T05:42:56.906881+00:00", "finished": "2026-05-09T05:43:10.370622+00:00", "targets": ["digital_question_gaps"], "ingested": 0, "promoted_to_strategy": 0, "cost_usd": 0.0, "dry": false}
+{"ts": 1778305512.9782, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778305553.210175, "event": "target_done", "target": "digital_question_gaps", "findings": 0, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778305591.917588, "event": "target_done", "target": "affiliate_weak_serp", "findings": 0, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778305591.918259, "event": "cycle_complete", "started": "2026-05-09T05:44:03.625108+00:00", "finished": "2026-05-09T05:46:31.918132+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 5, "promoted_to_strategy": 0, "cost_usd": 0.0, "dry": false}
+{"ts": 1778306527.1949341, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778306652.498326, "event": "target_failed", "target": "digital_question_gaps", "err": "OPENROUTER_API_KEY not set in environment or .env"}
+{"ts": 1778306776.550099, "event": "target_failed", "target": "affiliate_weak_serp", "err": "OPENROUTER_API_KEY not set in environment or .env"}
+{"ts": 1778306776.550453, "event": "cycle_complete", "started": "2026-05-09T06:00:38.318242+00:00", "finished": "2026-05-09T06:06:16.550392+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 5, "promoted_to_strategy": 0, "cost_usd": 0.0, "dry": false}
+{"ts": 1778307424.625524, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778307424.6263978, "event": "cycle_complete", "started": "2026-05-09T06:15:52.650137+00:00", "finished": "2026-05-09T06:17:04.626293+00:00", "targets": ["local_smb_no_website"], "ingested": 5, "promoted_to_strategy": 0, "cost_usd": 0.0, "dry": false}
+{"ts": 1778315511.608892, "event": "target_done", "target": "digital_question_gaps", "findings": 1, "cost_usd": 0.0, "via": "dry"}
+{"ts": 1778315511.609631, "event": "cycle_complete", "started": "2026-05-09T08:31:51.606787+00:00", "finished": "2026-05-09T08:31:51.609550+00:00", "targets": ["digital_question_gaps"], "ingested": 1, "promoted_to_strategy": 1, "cost_usd": 0.0, "dry": true}
+{"ts": 1778315873.071612, "event": "target_done", "target": "digital_question_gaps", "findings": 1, "cost_usd": 0.0, "via": "dry"}
+{"ts": 1778315873.072622, "event": "cycle_complete", "started": "2026-05-09T08:37:53.068547+00:00", "finished": "2026-05-09T08:37:53.072554+00:00", "targets": ["digital_question_gaps"], "ingested": 1, "promoted_to_strategy": 1, "cost_usd": 0.0, "dry": true}
+{"ts": 1778317291.72205, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778317375.207403, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778317522.336133, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.001293, "via": "openrouter"}
+{"ts": 1778317522.336861, "event": "cycle_complete", "started": "2026-05-09T09:00:01.651983+00:00", "finished": "2026-05-09T09:05:22.336814+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 8, "cost_usd": 0.001293, "dry": false}
+{"ts": 1778331697.125584, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778331756.165729, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778331795.143059, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778331795.143829, "event": "cycle_complete", "started": "2026-05-09T13:00:50.500971+00:00", "finished": "2026-05-09T13:03:15.143718+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 7, "cost_usd": 0.0, "dry": false}
+{"ts": 1778347719.047497, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0018, "via": "openrouter"}
+{"ts": 1778347894.072551, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.001553, "via": "openrouter"}
+{"ts": 1778347983.61262, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778347983.616195, "event": "cycle_complete", "started": "2026-05-09T17:04:21.752307+00:00", "finished": "2026-05-09T17:33:03.615999+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 3, "cost_usd": 0.003353, "dry": false}
+{"ts": 1778374878.648726, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778374936.018122, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778374983.101435, "event": "target_done", "target": "affiliate_weak_serp", "findings": 0, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778374983.1170619, "event": "cycle_complete", "started": "2026-05-10T01:00:29.370197+00:00", "finished": "2026-05-10T01:03:03.116855+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 10, "promoted_to_strategy": 7, "cost_usd": 0.0, "dry": false}
+{"ts": 1778389329.0646122, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778389366.420167, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778389409.05848, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778389409.060093, "event": "cycle_complete", "started": "2026-05-10T05:01:24.678597+00:00", "finished": "2026-05-10T05:03:29.059984+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 6, "cost_usd": 0.0, "dry": false}
+{"ts": 1778403926.162561, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778405898.8837938, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.001556, "via": "openrouter"}
+{"ts": 1778405952.653703, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778405952.6568189, "event": "cycle_complete", "started": "2026-05-10T09:03:36.326790+00:00", "finished": "2026-05-10T09:39:12.656512+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 9, "cost_usd": 0.001556, "dry": false}
