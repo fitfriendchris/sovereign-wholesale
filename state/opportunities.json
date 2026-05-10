@@ -2054,6 +2054,226 @@
       "status": "new",
       "tam_usd": 3100.0,
       "ttfd_days": 48
+    },
+    {
+      "build_cost_usd": 420.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:04:40.028041+00:00",
+      "engine": "local_services",
+      "id": "opp_1778418280_ae27b0",
+      "promoted_to_review_at": null,
+      "raw_finding": "Rural independent auto repair shops in counties with population 15K-50K: Google Maps shows 40-60% lack websites despite having 4+ star ratings and 50+ reviews. These shops face competition from Jiffy Lube/Valvoline Instant Oil franchises entering via highway corridors; they need local SEO to capture 'oil change near me' searches from pass-through traffic and seasonal agricultural workers. Shop owners are typically sole proprietors in their 50s-60s with no digital literacy but clear revenue pain when chain stores open within 15 miles.",
+      "score": 65,
+      "score_breakdown": {
+        "build_cost": 13,
+        "defensibility": 4,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 8,
+        "ttfd": 12
+      },
+      "source": "Google Maps + FCC broadband coverage maps (cross-referencing low broadband adoption counties)",
+      "status": "new",
+      "tam_usd": 850.0,
+      "ttfd_days": 38
+    },
+    {
+      "build_cost_usd": 680.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:04:40.035655+00:00",
+      "engine": "local_services",
+      "id": "opp_1778418280_7d096e",
+      "promoted_to_review_at": null,
+      "raw_finding": "Ethnic specialty food markets (Halal butchers, Korean grocers, Eastern European delis) in secondary metro suburbs: Yelp reveals clusters where 3-5 competitors operate within 2 miles but 60%+ have no web presence beyond basic Yelp profiles. These businesses serve diaspora communities who search in native languages; first-mover advantage in multilingual local SEO is substantial. Second-generation family members often manage operations and understand the revenue risk when Instacart/Amazon Fresh expands into their zip codes, making them receptive to affordable web presence.",
+      "score": 73,
+      "score_breakdown": {
+        "build_cost": 12,
+        "defensibility": 6,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 12,
+        "ttfd": 15
+      },
+      "source": "Yelp category filters + Census ACS language-spoken-at-home data",
+      "status": "new",
+      "tam_usd": 1200.0,
+      "ttfd_days": 22
+    },
+    {
+      "build_cost_usd": 950.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:04:40.040412+00:00",
+      "engine": "local_services",
+      "id": "opp_1778418280_e1773a",
+      "promoted_to_review_at": null,
+      "raw_finding": "BBB-accredited residential HVAC/plumbing contractors in Rust Belt cities (Detroit, Cleveland, Milwaukee) with A+ ratings but no websites: BBB profiles show 25-30% of accredited contractors in these markets lack web presence despite carrying $1M+ bonding and 10+ year histories. These trades face cyclical downturns and emergency-service competition from Angi/HomeAdvisor lead gen; they need owned channels to reduce $80-150 per-lead costs. Seasonal cash flow patterns (heating season spike, summer lull) create urgency windows for predictable marketing spend.",
+      "score": 71,
+      "score_breakdown": {
+        "build_cost": 10,
+        "defensibility": 5,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 18,
+        "ttfd": 10
+      },
+      "source": "BBB accredited business directory + Google Maps cross-reference for web presence verification",
+      "status": "new",
+      "tam_usd": 1800.0,
+      "ttfd_days": 45
+    },
+    {
+      "build_cost_usd": 280.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:04:40.045213+00:00",
+      "engine": "local_services",
+      "id": "opp_1778418280_49a43b",
+      "promoted_to_review_at": null,
+      "raw_finding": "Mobile pet groomers operating in Sun Belt retirement communities (Arizona, Florida, Texas): Google Maps shows high density of 5-star mobile operations with 100+ reviews but no booking websites, relying entirely on phone tags and text chains. Their clientele (aging pet owners, mobility-limited seniors) increasingly expects online scheduling; groomers lose 15-20% of potential bookings to friction. Vehicle-wrap marketing creates local awareness but no conversion funnel; simple booking + local SEO captures searches from adult children arranging care for parents' pets.",
+      "score": 67,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 3,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 6,
+        "ttfd": 16
+      },
+      "source": "Google Maps + county senior population density from Census SAIPE",
+      "status": "new",
+      "tam_usd": 650.0,
+      "ttfd_days": 18
+    },
+    {
+      "build_cost_usd": 1150.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:04:40.049844+00:00",
+      "engine": "local_services",
+      "id": "opp_1778418280_849dc2",
+      "promoted_to_review_at": null,
+      "raw_finding": "Independent insurance agencies in Appalachian and Ozark regions with BBB accreditation but no websites: These agencies write farm, crop, and small commercial lines for markets national carriers serve poorly; BBB profiles show stable 20+ year histories but zero digital footprint. Principal agents (often NAIFA members) are aging out without succession plans; young producers joining need digital credibility to retain farm families whose next generation shops online. Crop insurance deadlines and annual policy renewals create fixed selling windows with compressed decision cycles.",
+      "score": 74,
+      "score_breakdown": {
+        "build_cost": 9,
+        "defensibility": 7,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 22,
+        "ttfd": 8
+      },
+      "source": "BBB directory + USDA RMA crop insurance agent locator (identifying non-web-listed agents serving multi-county areas)",
+      "status": "new",
+      "tam_usd": 2200.0,
+      "ttfd_days": 52
+    },
+    {
+      "build_cost_usd": 220.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:05:44.619944+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778418344_0b7eb0",
+      "promoted_to_review_at": null,
+      "raw_finding": "\"best portable power station for CPAP\" + Jackery affiliate program + 10% commission, avg $280 sale",
+      "score": 63,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 5,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 8,
+        "ttfd": 8
+      },
+      "source": "SERP: \"best portable power station for CPAP\"",
+      "status": "new",
+      "tam_usd": 850.0,
+      "ttfd_days": 55
+    },
+    {
+      "build_cost_usd": 380.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:05:44.625656+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778418344_e0daff",
+      "promoted_to_review_at": null,
+      "raw_finding": "\"Nolah mattress vs Puffy\" + Nolah Sleep affiliate + 15% commission, avg $1,050 sale",
+      "score": 68,
+      "score_breakdown": {
+        "build_cost": 13,
+        "defensibility": 3,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 21,
+        "ttfd": 3
+      },
+      "source": "SERP: \"Nolah mattress vs Puffy\"",
+      "status": "new",
+      "tam_usd": 2100.0,
+      "ttfd_days": 75
+    },
+    {
+      "build_cost_usd": 180.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:05:44.630882+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778418344_14e59c",
+      "promoted_to_review_at": null,
+      "raw_finding": "\"Insta360 X4 vs GoPro Max 2\" + Insta360 affiliate + 12% commission, avg $425 sale",
+      "score": 64,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 6,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 6,
+        "ttfd": 10
+      },
+      "source": "SERP: \"Insta360 X4 vs GoPro Max 2\"",
+      "status": "new",
+      "tam_usd": 620.0,
+      "ttfd_days": 45
+    },
+    {
+      "build_cost_usd": 290.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:05:44.635981+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778418344_6170ab",
+      "promoted_to_review_at": null,
+      "raw_finding": "\"Ooni Karu 16 vs Gozney Dome\" + Ooni affiliate + 10% commission, avg $380 sale",
+      "score": 55,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 4,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 3,
+        "ttfd": 6
+      },
+      "source": "SERP: \"Ooni Karu 16 vs Gozney Dome\"",
+      "status": "new",
+      "tam_usd": 340.0,
+      "ttfd_days": 65
+    },
+    {
+      "build_cost_usd": 160.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-10T13:05:44.640992+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778418344_4b808a",
+      "promoted_to_review_at": null,
+      "raw_finding": "\"Theragun Prime vs Hypervolt 2\" + Therabody affiliate + 10% commission, avg $200 sale",
+      "score": 61,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 5,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 5,
+        "ttfd": 9
+      },
+      "source": "SERP: \"Theragun Prime vs Hypervolt 2\"",
+      "status": "new",
+      "tam_usd": 480.0,
+      "ttfd_days": 50
     }
   ]
 }

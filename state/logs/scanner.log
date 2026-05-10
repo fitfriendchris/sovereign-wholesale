@@ -40,3 +40,7 @@
 {"ts": 1778405898.8837938, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.001556, "via": "openrouter"}
 {"ts": 1778405952.653703, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
 {"ts": 1778405952.6568189, "event": "cycle_complete", "started": "2026-05-10T09:03:36.326790+00:00", "finished": "2026-05-10T09:39:12.656512+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 9, "cost_usd": 0.001556, "dry": false}
+{"ts": 1778418280.0548108, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778418308.675808, "event": "target_done", "target": "digital_question_gaps", "findings": 0, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778418344.646175, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778418344.64649, "event": "cycle_complete", "started": "2026-05-10T13:03:55.572152+00:00", "finished": "2026-05-10T13:05:44.646412+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 10, "promoted_to_strategy": 0, "cost_usd": 0.0, "dry": false}
