@@ -86,3 +86,6 @@
 {"ts": 1778418280.026413, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
 {"ts": 1778418308.6752262, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
 {"ts": 1778418344.61935, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778446897.656597, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778446955.966845, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778446996.873596, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
