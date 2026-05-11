@@ -122,3 +122,7 @@
 {"ts": 1778524299.858335, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.00153}
 {"ts": 1778524317.1101792, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001453}
 {"ts": 1778524344.334476, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001181}
+{"ts": 1778532912.121944, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 1.4e-05}
+{"ts": 1778532913.298729, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.000306}
+{"ts": 1778532954.722197, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 1.4e-05}
+{"ts": 1778532956.18715, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.000306}
