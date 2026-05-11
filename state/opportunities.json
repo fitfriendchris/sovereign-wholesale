@@ -1863,7 +1863,7 @@
       "discovered_at": "2026-05-10T09:38:18.812384+00:00",
       "engine": "digital_products",
       "id": "opp_1778405898_7f8923",
-      "promoted_to_review_at": null,
+      "promoted_to_review_at": "2026-05-11T05:04:23+00:00",
       "raw_finding": "r/PhotographyClassifieds sees daily \"Where can I sell my used lenses fast and safely?\"\u2014no step-by-step $19 checklist with exact copy-paste listing templates, escrow timing, and fee math; amateurs will pay to avoid getting low-balled or scammed",
       "score": 90,
       "score_breakdown": {
@@ -1875,7 +1875,7 @@
         "ttfd": 18
       },
       "source": "https://reddit.com/r/PhotographyClassifieds/search?q=sell+lens+fast&restrict_sr=1",
-      "status": "new",
+      "status": "promoted",
       "tam_usd": 3200.0,
       "ttfd_days": 7
     },
@@ -1907,7 +1907,7 @@
       "discovered_at": "2026-05-10T09:38:18.846354+00:00",
       "engine": "digital_products",
       "id": "opp_1778405898_7931e6",
-      "promoted_to_review_at": null,
+      "promoted_to_review_at": "2026-05-11T05:04:15+00:00",
       "raw_finding": "r/Beatmatch has weekly \"How do I stream a clean DJ set to Twitch without copyright strikes?\"\u2014no up-to-date $37 pack with OBS scenes, royalty-free track list, and DMCA-safe workflow; bedroom DJs will pay to keep their channels alive",
       "score": 91,
       "score_breakdown": {
@@ -1919,7 +1919,7 @@
         "ttfd": 17
       },
       "source": "https://reddit.com/r/Beatmatch/search?q=twitch+copyright+strike+streaming",
-      "status": "new",
+      "status": "promoted",
       "tam_usd": 4800.0,
       "ttfd_days": 14
     },
@@ -2743,7 +2743,7 @@
       "discovered_at": "2026-05-11T01:03:15.407483+00:00",
       "engine": "digital_products",
       "id": "opp_1778461395_4ff642",
-      "promoted_to_review_at": null,
+      "promoted_to_review_at": "2026-05-11T05:04:30+00:00",
       "raw_finding": "US expat tax filing for first-year renunciants (Form 8854 + exit tax calculation): exact pattern 'Do I need to file 8854 if I renounced mid-year?' \u2014 people pay because $2K+ CPA fees for one-year filings, IRS penalties for non-filing, and fragmented info across IRS pubs + expat forums; no consolidated walkthrough covers asset valuation timing + dual-status returns + state tie-breakers",
       "score": 90,
       "score_breakdown": {
@@ -2755,7 +2755,7 @@
         "ttfd": 17
       },
       "source": "r/USExpatsTaxes, r/fatFIRE, expatforum.com \u2014 search pattern 'renounce + 8854 + exit tax + [year]'",
-      "status": "new",
+      "status": "promoted",
       "tam_usd": 5800.0,
       "ttfd_days": 14
     },
@@ -2934,6 +2934,336 @@
       "status": "new",
       "tam_usd": 800.0,
       "ttfd_days": 50
+    },
+    {
+      "build_cost_usd": 380.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:09.551927+00:00",
+      "engine": "local_services",
+      "id": "opp_1778475789_9cd4c7",
+      "promoted_to_review_at": null,
+      "raw_finding": "Rural county seat auto repair shops in counties with population 15K-40K where Google Maps shows no website link and 3.2-4.0 star ratings with 8-30 reviews. These owners are typically 55+ mechanics who rely on word-of-mouth but lose younger customers to shops 20+ miles away with online booking. They'll pay because a simple site with appointment scheduling directly recaptures the 'tune-up before road trip' seasonal demand that currently goes to dealerships.",
+      "score": 63,
+      "score_breakdown": {
+        "build_cost": 13,
+        "defensibility": 4,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 8,
+        "ttfd": 10
+      },
+      "source": "Google Maps API + FCC broadband deployment maps to exclude truly disconnected areas",
+      "status": "new",
+      "tam_usd": 850.0,
+      "ttfd_days": 45
+    },
+    {
+      "build_cost_usd": 520.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:09.560194+00:00",
+      "engine": "local_services",
+      "id": "opp_1778475789_3cf6a4",
+      "promoted_to_review_at": null,
+      "raw_finding": "Ethnic-cuisine family restaurants in first-ring suburban enclaves (e.g., Korean in Bergen County NJ, Yemeni in Dearborn-adjacent Detroit suburbs) with Yelp presence but no claimed listing, often 4.0+ stars and '$' price tier. Second-generation family members handle English inquiries but cannot find the business online for catering or group orders. Payment willingness comes from catering revenue being 3-5x table revenue per hour with zero incremental rent cost.",
+      "score": 73,
+      "score_breakdown": {
+        "build_cost": 12,
+        "defensibility": 5,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 14,
+        "ttfd": 14
+      },
+      "source": "Yelp Fusion API filtered by cuisine tags + unclaimed listing flag + '$' price parameter",
+      "status": "new",
+      "tam_usd": 1400.0,
+      "ttfd_days": 28
+    },
+    {
+      "build_cost_usd": 890.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:09.566691+00:00",
+      "engine": "local_services",
+      "id": "opp_1778475789_94cf74",
+      "promoted_to_review_at": null,
+      "raw_finding": "Mobile home park contractors and manufactured home installers in Sun Belt retirement metros (Phoenix exurbs, Tampa I-4 corridor, San Antonio outer ring) listed on BBB with A- to A+ ratings but bare-bones profiles. These businesses average $2-4M revenue serving park owners and snowbirds needing turnkey installs, but compete via park manager referrals alone. A site capturing 'buy land, place home' searchers unlocks direct-to-consumer margin versus wholesale park pricing.",
+      "score": 79,
+      "score_breakdown": {
+        "build_cost": 11,
+        "defensibility": 6,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 22,
+        "ttfd": 12
+      },
+      "source": "BBB Accredited Business directory filtered by 'Manufactured & Mobile Homes' category + metro radius",
+      "status": "new",
+      "tam_usd": 2200.0,
+      "ttfd_days": 38
+    },
+    {
+      "build_cost_usd": 210.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:09.573152+00:00",
+      "engine": "local_services",
+      "id": "opp_1778475789_8aa80d",
+      "promoted_to_review_at": null,
+      "raw_finding": "Independent pet cremation services and equine aftercare operators within 50 miles of metro areas 500K-2M population, visible on Google Maps with 10-50 reviews and no website, often operating from agricultural-zoned properties. Their customer acquisition is entirely veterinary referral-dependent; vets increasingly prefer partners with transparent pricing pages they can text to grieving owners. Willingness to pay is high given $200-800 average transaction and emotional purchase timing reducing price sensitivity.",
+      "score": 63,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 7,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 6,
+        "ttfd": 8
+      },
+      "source": "Google Maps + county assessor agricultural zoning overlays + veterinary practice density data",
+      "status": "new",
+      "tam_usd": 650.0,
+      "ttfd_days": 52
+    },
+    {
+      "build_cost_usd": 1350.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:09.579444+00:00",
+      "engine": "local_services",
+      "id": "opp_1778475789_2484f5",
+      "promoted_to_review_at": null,
+      "raw_finding": "Industrial subcontract machine shops and metal fabricators in legacy manufacturing belts (Northeast Ohio, Upper South Carolina, Fox Valley WI) with BBB listings showing 10+ years accreditation, no website, and NAICS-aligned categories like 'Precision Grinding' or 'Sheet Metal Work.' These shops survive on OEM vendor lists but lose Tier 2 supplier audits requiring digital quality documentation portals. Payment willingness spikes when their single large customer demands ISO compliance documentation they cannot digitally deliver.",
+      "score": 76,
+      "score_breakdown": {
+        "build_cost": 8,
+        "defensibility": 8,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 25,
+        "ttfd": 7
+      },
+      "source": "BBB directory + SAM.gov excluded (to avoid federal contractors with existing compliance infrastructure) + Census County Business Patterns manufacturing employment filters",
+      "status": "new",
+      "tam_usd": 2800.0,
+      "ttfd_days": 60
+    },
+    {
+      "build_cost_usd": 180.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:45.762387+00:00",
+      "engine": "digital_products",
+      "id": "opp_1778475825_e6738e",
+      "promoted_to_review_at": null,
+      "raw_finding": "DIY bioactive terrarium drainage layer troubleshooting \u2014 /r/Jarrariums and /r/vivarium show repeated 'white mold / root rot despite false bottom' questions with conflicting advice scattered across 200+ comment threads. No single guide addresses humidity gradients, substrate compression over time, and plant-specific drainage needs together. Hobbyists spend $50-200 per build failure and will pay for a repeatable system.",
+      "score": 86,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 3,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 25,
+        "ttfd": 16
+      },
+      "source": "reddit.com/r/Jarrariums + reddit.com/r/vivarium",
+      "status": "new",
+      "tam_usd": 3200.0,
+      "ttfd_days": 18
+    },
+    {
+      "build_cost_usd": 240.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:45.770793+00:00",
+      "engine": "digital_products",
+      "id": "opp_1778475825_b1853c",
+      "promoted_to_review_at": null,
+      "raw_finding": "Post-COVID international multi-currency wedding budgeting \u2014 /r/weddingplanning and /r/UKPersonalFinance show surge in 'fianc\u00e9 in different country, how do we actually transfer/convert/hold funds without getting destroyed by fees' questions. No guide exists for GBP/EUR/USD/CAD couples dealing with volatile exchange rates, vendor deposit timing, and prenup-adjacent financial separation. Banks give generic advice; couples need month-by-month currency hedging for $15k-80k events.",
+      "score": 89,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 5,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 25,
+        "ttfd": 17
+      },
+      "source": "reddit.com/r/weddingplanning + reddit.com/r/UKPersonalFinance",
+      "status": "new",
+      "tam_usd": 5800.0,
+      "ttfd_days": 14
+    },
+    {
+      "build_cost_usd": 210.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:45.777460+00:00",
+      "engine": "digital_products",
+      "id": "opp_1778475825_1f7d0b",
+      "promoted_to_review_at": null,
+      "raw_finding": "Commercial drone pilot Part 107 night waiver SOP templates \u2014 /r/drones and UAV Coach forums show hundreds of 'submitted waiver, FAA rejected / how to write acceptable lighting plan' questions. Existing resources are either free FAA regurgitation or $500+ attorney consults. No mid-market product offers fillable templates with actual accepted waiver language for specific ops categories (real estate, inspection, agriculture).",
+      "score": 90,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 6,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 25,
+        "ttfd": 17
+      },
+      "source": "reddit.com/r/drones + uavcoach.com/community",
+      "status": "new",
+      "tam_usd": 7200.0,
+      "ttfd_days": 12
+    },
+    {
+      "build_cost_usd": 280.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:45.784056+00:00",
+      "engine": "digital_products",
+      "id": "opp_1778475825_b88542",
+      "promoted_to_review_at": null,
+      "raw_finding": "H1B visa holder side-business structuring (not 'start a company' \u2014 specific to immigration status constraints) \u2014 /r/h1b and Trackitt forums show recurring 'can I do X without 'unauthorized employment,' how to structure LLC with foreign co-founder, rev-share vs equity, when does passive become active' questions. Immigration attorneys charge $400/hr and give conservative 'no' answers; no product exists for the risk-calibrated middle path for $150k+ tech workers with actual side project revenue.",
+      "score": 88,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 7,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 25,
+        "ttfd": 14
+      },
+      "source": "reddit.com/r/h1b + trackitt.com",
+      "status": "new",
+      "tam_usd": 4800.0,
+      "ttfd_days": 28
+    },
+    {
+      "build_cost_usd": 160.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:03:45.791717+00:00",
+      "engine": "digital_products",
+      "id": "opp_1778475825_9ae05a",
+      "promoted_to_review_at": null,
+      "raw_finding": "Retirement community 'village' model DIY setup (not senior living industry, but adult children helping parents) \u2014 /r/AgingParents and eldercare forums show 'Mom needs to downsize, senior living costs $6k/month, heard about pocket neighborhoods but how to actually find/create one' questions. Existing resources are academic (Ziegler reports) or developer-focused (CoHousing Solutions). No step-by-step exists for 3-5 family clusters buying adjacent properties or converting large home, including zoning research, shared expense agreements, and exit planning.",
+      "score": 82,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 4,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 24,
+        "ttfd": 12
+      },
+      "source": "reddit.com/r/AgingParents + aplaceformom.com/forums",
+      "status": "new",
+      "tam_usd": 2400.0,
+      "ttfd_days": 35
+    },
+    {
+      "build_cost_usd": 280.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:04:15.820334+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778475855_3c3ac5",
+      "promoted_to_review_at": null,
+      "raw_finding": "best portable nebulizer for travel vs home use + Omron Healthcare affiliate (10% commission, ~$45 avg sale)",
+      "score": 58,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 6,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 4,
+        "ttfd": 6
+      },
+      "source": "SERP: \"best portable nebulizer travel\" \u2014 top results are thin listicles with no hands-on comparison, outdated 2021-2022 dates, manufacturer specs copied without testing context",
+      "status": "new",
+      "tam_usd": 420.0,
+      "ttfd_days": 65
+    },
+    {
+      "build_cost_usd": 180.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:04:15.828320+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778475855_ac485b",
+      "promoted_to_review_at": null,
+      "raw_finding": "cordless tire inflator with digital gauge vs analog + Audew/AstroAI affiliate programs (12% commission, ~$35 avg sale)",
+      "score": 65,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 5,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 8,
+        "ttfd": 10
+      },
+      "source": "SERP: \"best cordless tire inflator digital gauge\" \u2014 dominated by generic Amazon roundup sites, no real performance testing (inflation time data), missing cold-weather operation comparison",
+      "status": "new",
+      "tam_usd": 850.0,
+      "ttfd_days": 45
+    },
+    {
+      "build_cost_usd": 380.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:04:15.835276+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778475855_b78e90",
+      "promoted_to_review_at": null,
+      "raw_finding": "electric standing desk converter vs full desk + FlexiSpot affiliate (15% commission, ~$280 avg sale)",
+      "score": 74,
+      "score_breakdown": {
+        "build_cost": 13,
+        "defensibility": 7,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 25,
+        "ttfd": 1
+      },
+      "source": "SERP: \"electric standing desk converter vs standing desk\" \u2014 top result is Wirecutter (paywalled feel), remaining are 300-word thin content with no wobble/stability testing, missing weight capacity real-world validation",
+      "status": "new",
+      "tam_usd": 3200.0,
+      "ttfd_days": 85
+    },
+    {
+      "build_cost_usd": 350.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:04:15.841918+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778475855_00c846",
+      "promoted_to_review_at": null,
+      "raw_finding": "cold plunge tub with chiller vs ice bath + Plunge affiliate (10% commission, ~$4900 avg sale)",
+      "score": 77,
+      "score_breakdown": {
+        "build_cost": 13,
+        "defensibility": 8,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 25,
+        "ttfd": 3
+      },
+      "source": "SERP: \"cold plunge tub with chiller vs ice bath\" \u2014 results are either brand-owned content or generic wellness blogs with no temperature maintenance data, missing electricity cost analysis, no filter maintenance comparison",
+      "status": "new",
+      "tam_usd": 4800.0,
+      "ttfd_days": 75
+    },
+    {
+      "build_cost_usd": 150.0,
+      "compliance_flags": [],
+      "discovered_at": "2026-05-11T05:04:15.848818+00:00",
+      "engine": "affiliate_content",
+      "id": "opp_1778475855_a102de",
+      "promoted_to_review_at": null,
+      "raw_finding": "mechanical keyboard switch tester kit vs buying singles + KBDfans/NovelKeys affiliate (12% commission, ~$38 avg sale)",
+      "score": 60,
+      "score_breakdown": {
+        "build_cost": 14,
+        "defensibility": 4,
+        "legal": 15,
+        "operator_fit": 13,
+        "tam": 6,
+        "ttfd": 8
+      },
+      "source": "SERP: \"mechanical keyboard switch tester kit worth it\" \u2014 Reddit threads dominate, no dedicated buyer's guide with actuation force charts, missing tactile vs linear decision framework, no switch longevity data",
+      "status": "new",
+      "tam_usd": 650.0,
+      "ttfd_days": 55
     }
   ]
 }
