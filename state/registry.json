@@ -570,6 +570,40 @@
       "project_id": "p_1778324230_fd9650",
       "timestamp": "2026-05-11T07:47:31+00:00",
       "usd": 0.003857
+    },
+    {
+      "event": "owner_assigned",
+      "owner": "engineering",
+      "project_id": "p_1778476488_9bd36d",
+      "timestamp": "2026-05-11T09:47:17+00:00"
+    },
+    {
+      "event": "spend",
+      "note": "engineering dispatch",
+      "project_id": "p_1778476490_a35f48",
+      "timestamp": "2026-05-11T09:47:42+00:00",
+      "usd": 0.021816
+    },
+    {
+      "event": "spend",
+      "note": "engineering dispatch",
+      "project_id": "p_1778476488_9bd36d",
+      "timestamp": "2026-05-11T09:47:42+00:00",
+      "usd": 0.021843
+    },
+    {
+      "event": "spend",
+      "note": "strategy dispatch",
+      "project_id": "p_1778314045_74a11e",
+      "timestamp": "2026-05-11T09:47:45+00:00",
+      "usd": 0.018546
+    },
+    {
+      "event": "spend",
+      "note": "sales dispatch",
+      "project_id": "p_1778324230_fd9650",
+      "timestamp": "2026-05-11T09:47:51+00:00",
+      "usd": 0.004066
     }
   ],
   "operator": {},
@@ -698,9 +732,9 @@
       "name": "test-ebook",
       "outcome": "manual project: test-ebook",
       "owner": "strategy",
-      "spent_usd": 0.0406,
+      "spent_usd": 0.0591,
       "status": "approved",
-      "updated_at": "2026-05-11T07:46:41+00:00"
+      "updated_at": "2026-05-11T09:47:45+00:00"
     },
     "p_1778315511_d3c92e": {
       "budget_minutes": 0,
@@ -772,9 +806,9 @@
       "name": "re-wholesale-passivepilot",
       "outcome": "manual project: re-wholesale-passivepilot",
       "owner": "strategy",
-      "spent_usd": 0.4441,
+      "spent_usd": 0.4482,
       "status": "approved",
-      "updated_at": "2026-05-11T07:47:31+00:00"
+      "updated_at": "2026-05-11T09:47:51+00:00"
     },
     "p_1778476488_9bd36d": {
       "budget_minutes": 0,
@@ -790,10 +824,10 @@
       "milestones": [],
       "name": "digital_products-4ff642",
       "outcome": "US expat tax filing for first-year renunciants (Form 8854 + exit tax calculation): exact pattern 'Do I need to file 8854 if I renounced mid-",
-      "owner": null,
-      "spent_usd": 0.0437,
+      "owner": "engineering",
+      "spent_usd": 0.0655,
       "status": "approved",
-      "updated_at": "2026-05-11T07:46:37+00:00"
+      "updated_at": "2026-05-11T09:47:42+00:00"
     },
     "p_1778476490_a35f48": {
       "budget_minutes": 0,
@@ -810,9 +844,9 @@
       "name": "digital_products-7f8923",
       "outcome": "r/PhotographyClassifieds sees daily \"Where can I sell my used lenses fast and safely?\"\u2014no step-by-step $19 checklist with exact copy-paste l",
       "owner": "engineering",
-      "spent_usd": 0.0437,
+      "spent_usd": 0.0655,
       "status": "approved",
-      "updated_at": "2026-05-11T07:46:37+00:00"
+      "updated_at": "2026-05-11T09:47:42+00:00"
     }
   },
   "skills": []

@@ -1,0 +1,19 @@
+{
+  "token": "lBkpVzoP98z37zzpcAU7JnvATp9AmShu7XoCIN3wirk",
+  "agent_id": 5953,
+  "name": "SovereignOmni_cd85",
+  "initial_balance": 100000.0,
+  "experiment_assignments": [
+    {
+      "id": 5796,
+      "experiment_key": "45",
+      "unit_type": "agent",
+      "unit_id": 5953,
+      "variant_key": "quality-weighted",
+      "assignment_reason": "stable_bucket",
+      "metadata_json": "{}",
+      "created_at": "2026-05-11T18:43:44.761693Z",
+      "idempotent": false
+    }
+  ]
+}

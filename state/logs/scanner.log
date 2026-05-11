@@ -56,3 +56,15 @@
 {"ts": 1778475825.816464, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
 {"ts": 1778475855.85548, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
 {"ts": 1778475855.856124, "event": "cycle_complete", "started": "2026-05-11T05:02:25.544151+00:00", "finished": "2026-05-11T05:04:15.856057+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 8, "cost_usd": 0.0, "dry": false}
+{"ts": 1778485682.948229, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.001697, "via": "openrouter"}
+{"ts": 1778485709.775436, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.001615, "via": "openrouter"}
+{"ts": 1778485734.205466, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.001008, "via": "openrouter"}
+{"ts": 1778485734.2065651, "event": "cycle_complete", "started": "2026-05-11T07:47:37.519815+00:00", "finished": "2026-05-11T07:48:54.206489+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 5, "cost_usd": 0.00432, "dry": false}
+{"ts": 1778490267.8129, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.0, "via": "openclaw-cli(ollama/kimi-k2.6:cloud)"}
+{"ts": 1778490451.4937558, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.001733, "via": "openrouter"}
+{"ts": 1778490595.695322, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.001166, "via": "openrouter"}
+{"ts": 1778490595.6965172, "event": "cycle_complete", "started": "2026-05-11T09:03:03.777360+00:00", "finished": "2026-05-11T09:09:55.696449+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 8, "cost_usd": 0.002899, "dry": false}
+{"ts": 1778524299.9067352, "event": "target_done", "target": "local_smb_no_website", "findings": 5, "cost_usd": 0.00153, "via": "openrouter"}
+{"ts": 1778524317.1592178, "event": "target_done", "target": "digital_question_gaps", "findings": 5, "cost_usd": 0.001453, "via": "openrouter"}
+{"ts": 1778524344.384017, "event": "target_done", "target": "affiliate_weak_serp", "findings": 5, "cost_usd": 0.001181, "via": "openrouter"}
+{"ts": 1778524344.384727, "event": "cycle_complete", "started": "2026-05-11T18:31:21.065386+00:00", "finished": "2026-05-11T18:32:24.384676+00:00", "targets": ["local_smb_no_website", "digital_question_gaps", "affiliate_weak_serp"], "ingested": 15, "promoted_to_strategy": 5, "cost_usd": 0.004164, "dry": false}

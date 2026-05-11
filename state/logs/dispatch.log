@@ -105,3 +105,20 @@
 {"ts": 1778485631.167723, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023655}
 {"ts": 1778485643.717762, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.004051}
 {"ts": 1778485651.774695, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.003857}
+{"ts": 1778485682.896986, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001697}
+{"ts": 1778485709.721049, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001615}
+{"ts": 1778485734.133624, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001008}
+{"ts": 1778490267.762284, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
+{"ts": 1778490391.722154, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778490451.442632, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001733}
+{"ts": 1778490578.2994492, "event": "openclaw_cli_fail", "stderr": "GatewayTransportError: gateway timeout after 120000ms\nGateway target: ws://127.0.0.1:18789\nSource: local loopback\nConfig: /Users/yuhfriendchris/.openclaw/openclaw.json\nBind: loopback\n", "model": "ollama/kimi-k2.6:cloud"}
+{"ts": 1778490595.661577, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001166}
+{"ts": 1778492862.533428, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021816}
+{"ts": 1778492862.9771478, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021843}
+{"ts": 1778492865.600642, "event": "call", "role": "strategy", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.018546}
+{"ts": 1778492871.019576, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.004066}
+{"ts": 1778524082.8550599, "event": "dispatch_brief", "project_id": "research", "manager": "Test dispatch: Say \"system test passed\" in one sentence.", "path": "/Users/yuhfriendchris/Desktop/Sovereign/state/inbox/research/brief_Test dispatch: Say \"system test passed\" in one sentence..md"}
+{"ts": 1778524281.0466702, "event": "dispatch_brief", "project_id": "strategy", "manager": "Quick system health check: confirm you can receive this brief and reply with \"OK\" only.", "path": "/Users/yuhfriendchris/Desktop/Sovereign/state/inbox/strategy/brief_Quick system health check: confirm you can receive this brief and reply with \"OK\" only..md"}
+{"ts": 1778524299.858335, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.00153}
+{"ts": 1778524317.1101792, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001453}
+{"ts": 1778524344.334476, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openrouter", "cost": 0.001181}

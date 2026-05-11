@@ -60,7 +60,7 @@ MODEL_BY_ROLE = {
 # into OpenClaw, so Claude/Kimi models route through openrouter/...
 OPENCLAW_MODEL_MAP = {
     "kimi-k2":    "openrouter/moonshotai/kimi-k2",
-    "kimi-2.6":   "ollama/kimi-k2.6:cloud",   # local Ollama path for Hermes
+    "kimi-2.6":   "openrouter/moonshotai/kimi-k2-0905",  # OpenRouter Kimi — reliable fallback
     "haiku-4.5":  "openrouter/anthropic/claude-haiku-4.5",
     "sonnet-4.6": "openrouter/anthropic/claude-sonnet-4.6",
     "opus-4.7":   "openrouter/anthropic/claude-opus-4.7",
