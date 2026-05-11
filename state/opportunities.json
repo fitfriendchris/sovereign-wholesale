@@ -1858,6 +1858,7 @@
       "ttfd_days": 10
     },
     {
+      "archive_reason": "approved \u2192 p_1778476490_a35f48",
       "build_cost_usd": 40.0,
       "compliance_flags": [],
       "discovered_at": "2026-05-10T09:38:18.812384+00:00",
@@ -1875,7 +1876,7 @@
         "ttfd": 18
       },
       "source": "https://reddit.com/r/PhotographyClassifieds/search?q=sell+lens+fast&restrict_sr=1",
-      "status": "promoted",
+      "status": "archived",
       "tam_usd": 3200.0,
       "ttfd_days": 7
     },
@@ -2738,6 +2739,7 @@
       "ttfd_days": 21
     },
     {
+      "archive_reason": "approved \u2192 p_1778476488_9bd36d",
       "build_cost_usd": 220.0,
       "compliance_flags": [],
       "discovered_at": "2026-05-11T01:03:15.407483+00:00",
@@ -2755,7 +2757,7 @@
         "ttfd": 17
       },
       "source": "r/USExpatsTaxes, r/fatFIRE, expatforum.com \u2014 search pattern 'renounce + 8854 + exit tax + [year]'",
-      "status": "promoted",
+      "status": "archived",
       "tam_usd": 5800.0,
       "ttfd_days": 14
     },
