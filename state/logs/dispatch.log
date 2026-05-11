@@ -97,3 +97,11 @@
 {"ts": 1778475855.8195992, "event": "call", "role": "research_scanner", "model": "kimi-2.6", "via": "openclaw-cli(ollama/kimi-k2.6:cloud)", "cost": 0.0}
 {"ts": 1778476516.425738, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021939}
 {"ts": 1778476519.1848059, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021918}
+{"ts": 1778485597.7627661, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021771}
+{"ts": 1778485597.9276512, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021792}
+{"ts": 1778485601.1744971, "event": "call", "role": "engineering", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021744}
+{"ts": 1778485601.310818, "event": "call", "role": "strategy", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.021675}
+{"ts": 1778485618.5596611, "event": "call", "role": "marketing", "model": "kimi-k2", "via": "openrouter", "cost": 0.001921}
+{"ts": 1778485631.167723, "event": "call", "role": "compliance", "model": "sonnet-4.6", "via": "openrouter", "cost": 0.023655}
+{"ts": 1778485643.717762, "event": "call", "role": "sales", "model": "kimi-k2", "via": "openrouter", "cost": 0.004051}
+{"ts": 1778485651.774695, "event": "call", "role": "research", "model": "kimi-2.6", "via": "openrouter", "cost": 0.003857}
